@@ -1,4 +1,4 @@
-# The Odin Project Ruby Exercises
+# The Odin Project Ruby Exercises (as practiced by me)
 
 ## About this repository
 
