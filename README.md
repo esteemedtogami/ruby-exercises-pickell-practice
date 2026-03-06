@@ -2,7 +2,7 @@
 
 ## About this repository
 
-This repository is a complement to the Ruby course for The Odin Project. It contains a series of Ruby exercises alongside pre-written tests that will help guide the student towards a solution, providing a Test Driven Development experience.
+This repository is a complement to the Ruby course for The Odin Project (https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby). It contains a series of Ruby exercises alongside pre-written tests that will help guide the student towards a solution, providing a Test Driven Development experience.
 
 Each set of exercises should only be done **after** being directed to do so in the assignment of the corresponding Ruby lesson. I.e. if you just finished the Basic Data Types lesson you should **only** do the exercises in the `1_data_types` folder for now.
 
